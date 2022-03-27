@@ -1,2 +1,1 @@
-# site-luzdomundo
-Site para o Instituto Luz do Mundo
+# Site do Instituto Luz do Mundo
